@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="061cf53c-2037-4d1c-85c5-5b2aee74a6c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dinosaur/DinosaurFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dinosaur/dinosaurList/Pterosaur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dinosaur/dinosaurList/Triceratops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dinosaur/dinosaurList/TyranosaurRex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dinosaur/iDinosaur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DinosaurFactoryJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PterosaurTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TriceratopsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TyranosaurRexTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
