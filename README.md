@@ -6,7 +6,7 @@
   
 ## 🤔 Sobre
   
-  <p>Este projeto tem o intuito de apresentar o padrão de projeto Singleton, utilizando a linguagem Java.</p>
+  <p>Este projeto tem o intuito de apresentar o padrão de projeto  Factory Method, utilizando a linguagem Java.</p>
   
 ### ⚙ Suporte de primeiro-nível
 
