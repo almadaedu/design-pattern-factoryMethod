@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center">Arquitetura e Projeto de Software - Design Pattern Singleton</h2>
+  <h2 align="center">Arquitetura e Projeto de Software - Design Pattern Factory Method</h2>
 </div>
 
 <div>
